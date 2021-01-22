@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <color name="tfe_color_primary">#ffa800</color>
+    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_accent">#425066</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -13,4 +17,6 @@
     <color name="RoseQuartz">#F7CAC9</color>
     <color name="Serenity">#92A8D1</color>
     <color name="ClassicBlue">#34568B</color>
+
+    <color name="tfe_semi_transparent">#66000000</color>
 </resources>
